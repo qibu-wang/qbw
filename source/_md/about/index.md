@@ -1,0 +1,9 @@
+title: 关于
+layout: about
+---
+#### 关于软件：
+1.XXXXXXXXXXXXXXXXXXXXXXXXX
+2.XXXXXXXXXXXXXXXXXXXXXX
+3.XXXXXXXXXXXXXXXX
+
+下载：[点击](/)
