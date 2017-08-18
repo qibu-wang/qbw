@@ -23,7 +23,7 @@ menu:
     class: menu-reading 
   # 社区
   - id: about
-    link: http://www.mbgyw.com:8090
+    link: http://bbs.qibuwang.cf
     icon: user
     class: menu-about
   # 搜索
